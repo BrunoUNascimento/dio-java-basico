@@ -4,6 +4,8 @@ public class Smartv {
     private int canal;
     private int volume;
     
+    
+    
     public Smartv(){
         this.ligada = false;
         this.canal = +1;

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="dio-bootcamp-java/src"/>
+	<classpathentry kind="src" path="java-anatomia-classes/src"/>
+	<classpathentry kind="src" path="meu-primeiro-projeto-java/src"/>
+	<classpathentry kind="src" path="operadores/src"/>
+	<classpathentry kind="src" path="smartv/src"/>
+	<classpathentry excluding="teminal/" kind="src" path="teminal-argumentos/src"/>
+	<classpathentry kind="src" path="teminal-argumentos/src/teminal"/>
+	<classpathentry kind="src" path="TiposVariaveis/src"/>
+	<classpathentry kind="output" path="TiposVariaveis/build/classes"/>
+</classpath>
